@@ -1,1 +1,1 @@
-# bubble-gum-simulator
+Bubble Gum Simulator Christmas Event Autofarm ( Door To Door )
